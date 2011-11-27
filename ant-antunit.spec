@@ -2,7 +2,7 @@
 
 Name:             ant-%{base_name}
 Version:          1.1
-Release:          5
+Release:          7
 Summary:          Provide antunit ant task
 Group:            Development/Java
 License:          ASL 2.0
