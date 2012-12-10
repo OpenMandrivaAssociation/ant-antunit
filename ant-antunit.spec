@@ -97,3 +97,11 @@ echo "ant/ant-antunit" > %{buildroot}%{_sysconfdir}/%{name}.d/antunit
 %{_javadocdir}/%{name}
 
 
+
+
+%changelog
+* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 1.1-7
++ Revision: 733788
+- rebuild
+- imported package ant-antunit
+
