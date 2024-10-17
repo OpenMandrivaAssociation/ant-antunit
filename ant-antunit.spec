@@ -7,7 +7,7 @@ Release:          12.0%{?dist}
 Summary:          Provide antunit ant task
 
 License:          ASL 2.0
-URL:              http://ant.apache.org/antlibs/%{base_name}/
+URL:              https://ant.apache.org/antlibs/%{base_name}/
 Source0:          http://www.apache.org/dist/ant/antlibs/%{base_name}/source/apache-%{name}-%{version}-src.tar.bz2
 BuildArch:        noarch
 
